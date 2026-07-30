@@ -1,6 +1,6 @@
 /* Intellectual Encounters — offline service worker.
    Bump CACHE_NAME when you redeploy so readers get fresh chapters. */
-var CACHE_NAME = 'ie-library-v2';
+var CACHE_NAME = 'ie-library-v3';
 var CORE = [
   './',
   'index.html',
