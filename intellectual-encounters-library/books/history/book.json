@@ -1,0 +1,19 @@
+{
+  "id": "history",
+  "title": "The Long View: How We Got Here, and Why It Sets You Free",
+  "author": "Intellectual Encounters editorial project",
+  "subject": "History · How we got here",
+  "description": "Thinking historically as a way to loosen the grip of the present — how historians actually know things, how the modern world of clocks, careers and the individual was made, and how migration is not the exception but the oldest human story.",
+  "language": "en",
+  "version": "2.0.0",
+  "chapters": [
+    { "id": "ch1", "file": "ch1.md", "title": "1. How We Know What Happened" },
+    { "id": "ch2", "file": "ch2.md", "title": "2. How the Modern Self Was Built" },
+    { "id": "ch3", "file": "ch3.md", "title": "3. A Species That Moves" },
+    { "id": "ch4", "file": "ch4.md", "title": "4. Entangled: India and Germany in Each Other's Histories" },
+    { "id": "ch5", "file": "ch5.md", "title": "5. A Day's Work: A History of Labour and the Everyday" },
+    { "id": "ch6", "file": "ch6.md", "title": "6. What We Choose to Remember: Memory, Identity, and the Uses of the Past" }
+  ],
+  "glossary": "glossary.md",
+  "citations": "citations.md"
+}

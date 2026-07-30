@@ -1,0 +1,19 @@
+{
+  "id": "cognition",
+  "title": "How the Mind Learns: Attention, Memory, and Decision in a Tired Brain",
+  "author": "Intellectual Encounters editorial project",
+  "subject": "Cognitive science & neuroscience · Attention, memory, decision",
+  "description": "The practical science of your own learning brain — how attention is rationed, how memory is actually built (and why re-reading fails), and how a sleep-deprived mind decides — for people trying to study seriously on top of a full working week.",
+  "language": "en",
+  "version": "2.0.0",
+  "chapters": [
+    { "id": "ch1", "file": "ch1.md", "title": "1. Attention Is a Budget" },
+    { "id": "ch2", "file": "ch2.md", "title": "2. How Learning Actually Sticks" },
+    { "id": "ch3", "file": "ch3.md", "title": "3. The Tired Brain Decides" },
+    { "id": "ch4", "file": "ch4.md", "title": "4. From Novice to Expert: How Skill Is Actually Built" },
+    { "id": "ch5", "file": "ch5.md", "title": "5. Two Languages, One Brain: The Cognitive Life of the Multilingual" },
+    { "id": "ch6", "file": "ch6.md", "title": "6. Thinking Together: When Groups Are Smarter, and When They're Dumber" }
+  ],
+  "glossary": "glossary.md",
+  "citations": "citations.md"
+}

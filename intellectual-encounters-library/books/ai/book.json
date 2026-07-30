@@ -1,0 +1,19 @@
+{
+  "id": "ai",
+  "title": "Thinking Machines, Thinking Humans: A Primer on AI for People Who Will Build With It",
+  "author": "Intellectual Encounters editorial project",
+  "subject": "AI & machine learning · A primer for builders",
+  "description": "What machine learning actually is beneath the hype — how learning-from-data really works, what these systems genuinely cannot do, and the human questions (work, bias, meaning, responsibility) that matter most for the people who will build and use them.",
+  "language": "en",
+  "version": "2.0.0",
+  "chapters": [
+    { "id": "ch1", "file": "ch1.md", "title": "1. What 'Learning From Data' Means" },
+    { "id": "ch2", "file": "ch2.md", "title": "2. What It Cannot Do (Yet, or Ever)" },
+    { "id": "ch3", "file": "ch3.md", "title": "3. The Human Questions" },
+    { "id": "ch4", "file": "ch4.md", "title": "4. From Notebook to Production: How Real Systems Get Built" },
+    { "id": "ch5", "file": "ch5.md", "title": "5. The Prediction Machines That Talk: Understanding Generative AI" },
+    { "id": "ch6", "file": "ch6.md", "title": "6. Building a Career When the Tools Keep Learning" }
+  ],
+  "glossary": "glossary.md",
+  "citations": "citations.md"
+}

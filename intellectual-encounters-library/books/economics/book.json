@@ -1,0 +1,19 @@
+{
+  "id": "economics",
+  "title": "Money, Time, and the Good-Enough Life: Economics for People Who Work and Study",
+  "author": "Serious Interactive Books editorial project",
+  "subject": "Economics · Scarcity, choice & personal finance",
+  "description": "The economic ideas that quietly run your week — scarcity and opportunity cost, the biases that wreck money decisions, and the foundations of saving, debt and sending money home — for people earning modest wages and building a future.",
+  "language": "en",
+  "version": "2.0.0",
+  "chapters": [
+    { "id": "ch1", "file": "ch1.md", "title": "1. Scarcity Is the Whole Game" },
+    { "id": "ch2", "file": "ch2.md", "title": "2. The Mind Is a Bad Accountant" },
+    { "id": "ch3", "file": "ch3.md", "title": "3. Foundations, Not Advice" },
+    { "id": "ch4", "file": "ch4.md", "title": "4. What a Wage Is: Labour Markets, Credentials, and Bargaining Power" },
+    { "id": "ch5", "file": "ch5.md", "title": "5. Why Nations Differ: Institutions, Development, and the Economics of Moving" },
+    { "id": "ch6", "file": "ch6.md", "title": "6. Risk, Time, and the Long Game" }
+  ],
+  "glossary": "glossary.md",
+  "citations": "citations.md"
+}

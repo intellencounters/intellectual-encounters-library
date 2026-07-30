@@ -1,0 +1,19 @@
+{
+  "id": "psychology",
+  "title": "The Mind Under Pressure: Emotion, Motivation, and Self When You Work and Study",
+  "author": "Intellectual Encounters editorial project",
+  "subject": "Psychology · Emotion, stress & identity",
+  "description": "How your own mind actually works under load — stress and emotion, why motivation fails and habits stick, and how identity and attachment shape your relationships — written for people running on too little sleep.",
+  "language": "en",
+  "version": "2.0.0",
+  "chapters": [
+    { "id": "ch1", "file": "ch1.md", "title": "1. The Nervous System You Commute With" },
+    { "id": "ch2", "file": "ch2.md", "title": "2. Why Motivation Fails and Habits Save You" },
+    { "id": "ch3", "file": "ch3.md", "title": "3. Who You Are When No One's Watching" },
+    { "id": "ch4", "file": "ch4.md", "title": "4. Working With Feeling: Emotion as Information" },
+    { "id": "ch5", "file": "ch5.md", "title": "5. Two People, One Conversation: The Psychology of Close Relationships" },
+    { "id": "ch6", "file": "ch6.md", "title": "6. Can People Change? Growth Without Self-Help Myths" }
+  ],
+  "glossary": "glossary.md",
+  "citations": "citations.md"
+}

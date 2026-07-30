@@ -1,0 +1,19 @@
+{
+  "id": "politics",
+  "title": "The Rules of the Ground You Stand On: Power, Rights, and the Systems Around You",
+  "author": "Intellectual Encounters editorial project",
+  "subject": "Political science & law · Power & rights",
+  "description": "A primer on the systems that decide so much of your daily life — what power and legitimacy are, where rights come from and what they actually do, and what it means to have a voice as a newcomer in a democracy.",
+  "language": "en",
+  "version": "2.0.0",
+  "chapters": [
+    { "id": "ch1", "file": "ch1.md", "title": "1. What Power Is" },
+    { "id": "ch2", "file": "ch2.md", "title": "2. Rights, and What They Can and Cannot Do" },
+    { "id": "ch3", "file": "ch3.md", "title": "3. Having a Voice From the Margins" },
+    { "id": "ch4", "file": "ch4.md", "title": "4. The Machinery: How Institutions Shape an Ordinary Tuesday" },
+    { "id": "ch5", "file": "ch5.md", "title": "5. Who Told You That? Media, Information, and the Attentive Citizen" },
+    { "id": "ch6", "file": "ch6.md", "title": "6. What Would Be Fair? Justice Between People and Peoples" }
+  ],
+  "glossary": "glossary.md",
+  "citations": "citations.md"
+}

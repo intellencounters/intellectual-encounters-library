@@ -1,0 +1,19 @@
+{
+  "id": "philosophy",
+  "title": "The Examined Life Abroad: Thinking Clearly About Choices That Are Actually Yours",
+  "author": "Intellectual Encounters editorial project",
+  "subject": "Philosophy · Reasoning & the good life",
+  "description": "A short primer on thinking for yourself when family, tradition, and social expectation all push at once — what an argument is, how to tell custom from justification, and how to reason about the choices that shape a life.",
+  "language": "en",
+  "version": "2.0.0",
+  "chapters": [
+    { "id": "ch1", "file": "ch1.md", "title": "1. What Philosophy Is For" },
+    { "id": "ch2", "file": "ch2.md", "title": "2. What Do You Owe, and to Whom?" },
+    { "id": "ch3", "file": "ch3.md", "title": "3. The Good Life, and Whether Your Choices Are Yours" },
+    { "id": "ch4", "file": "ch4.md", "title": "4. How Do You Know? Belief, Evidence, and Intellectual Humility" },
+    { "id": "ch5", "file": "ch5.md", "title": "5. Arguing Well: Logic and Its Abuses" },
+    { "id": "ch6", "file": "ch6.md", "title": "6. Death, Time, and the Shape of a Life" }
+  ],
+  "glossary": "glossary.md",
+  "citations": "citations.md"
+}

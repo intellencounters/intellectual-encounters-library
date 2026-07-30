@@ -1,0 +1,19 @@
+{
+  "id": "anthropology",
+  "title": "Between Two Cultures: Reading Germany and India Without Judging Either",
+  "author": "Intellectual Encounters editorial project",
+  "subject": "Anthropology · Culture & cross-cultural life",
+  "description": "A field guide to the culture gap you live inside — what \"culture\" even is, why Germans and Indians encode time, hierarchy, directness and respect so differently, and how to build a hybrid identity without betraying either side.",
+  "language": "en",
+  "version": "2.0.0",
+  "chapters": [
+    { "id": "ch1", "file": "ch1.md", "title": "1. What Culture Actually Is" },
+    { "id": "ch2", "file": "ch2.md", "title": "2. Reading the Codes" },
+    { "id": "ch3", "file": "ch3.md", "title": "3. Culture Shock and the Hybrid Self" },
+    { "id": "ch4", "file": "ch4.md", "title": "4. Why Rituals Work: Festival, Ceremony, and a Diwali Far From Home" },
+    { "id": "ch5", "file": "ch5.md", "title": "5. Living in Two Languages: Meaning, Untranslatables, and the Multilingual Self" },
+    { "id": "ch6", "file": "ch6.md", "title": "6. The Meal and the Gift: Food, Hospitality, and Exchange" }
+  ],
+  "glossary": "glossary.md",
+  "citations": "citations.md"
+}

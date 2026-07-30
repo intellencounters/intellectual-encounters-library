@@ -1,0 +1,19 @@
+{
+  "id": "sociology",
+  "title": "The Weight of Expectation: A Sociology of Family, Success, and Belonging",
+  "author": "Intellectual Encounters editorial project",
+  "subject": "Sociology · Family, migration & belonging",
+  "description": "Why social expectation feels so heavy, and where it actually comes from — norms and roles, the socially built idea of \"success,\" how family and gender scripts form, and what it means to belong when you live between two societies.",
+  "language": "en",
+  "version": "2.0.0",
+  "chapters": [
+    { "id": "ch1", "file": "ch1.md", "title": "1. The Invisible Rules" },
+    { "id": "ch2", "file": "ch2.md", "title": "2. Family, Gender, and the Scripts We Inherit" },
+    { "id": "ch3", "file": "ch3.md", "title": "3. Belonging in the In-Between" },
+    { "id": "ch4", "file": "ch4.md", "title": "4. The Dignity of Work: Class, Status, and the Shift-Work Self" },
+    { "id": "ch5", "file": "ch5.md", "title": "5. The Strength of Your Ties: Networks, Capital, and Community" },
+    { "id": "ch6", "file": "ch6.md", "title": "6. How Norms Die: Social Change and the Generations" }
+  ],
+  "glossary": "glossary.md",
+  "citations": "citations.md"
+}
